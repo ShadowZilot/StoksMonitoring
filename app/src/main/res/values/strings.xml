@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StoksMonitoring</string>
+    <string name="no_network_label">No network</string>
+    <string name="search_label">Find company or ticker</string>
+    <string name="search_action_label">Search</string>
+    <string name="old_data_message">No network connection.\n Loaded old stocks data</string>
+    <string name="detail_label">Detail</string>
+    <string name="list_of_companies_label">Companies</string>
+    <string name="buy_message">*Do something*</string>
+    <string name="buy_text_format">Buy for %1s</string>
+    <string name="no_graph_data_message">No data for graph</string>
+    <string name="old_graph_data_message">No network connection.\n Loaded old graph data</string>
+    <string name="data_format">%1d %2s %3d</string>
+    <string name="day_selector_date">Day</string>
+    <string name="week_selector_date">Week</string>
+    <string name="month_selector_date">Month</string>
+    <string-array name="month_names">
+        <item>jan</item>
+        <item>feb</item>
+        <item>mar</item>
+        <item>apr</item>
+        <item>may</item>
+        <item>jun</item>
+        <item>jul</item>
+        <item>aug</item>
+        <item>sep</item>
+        <item>oct</item>
+        <item>nov</item>
+        <item>dec</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PriceGraph">
+        <attr name="pg_strokeWidth" format="dimension"/>
+        <attr name="pg_strokeColor" format="color"/>
+        <attr name="pg_fadePercent" format="float"/>
+        <attr name="pg_fadeColor" format="color"/>
+        <attr name="pg_shadowColor" format="color"/>
+        <attr name="pg_pointerColor" format="color"/>
+    </declare-styleable>
+</resources>
